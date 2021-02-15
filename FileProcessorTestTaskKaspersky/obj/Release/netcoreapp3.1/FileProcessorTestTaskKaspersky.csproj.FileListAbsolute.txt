@@ -1,0 +1,13 @@
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\bin\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.exe
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\bin\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.deps.json
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\bin\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.runtimeconfig.json
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\bin\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.runtimeconfig.dev.json
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\bin\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.dll
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\bin\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.pdb
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\obj\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.csprojAssemblyReference.cache
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\obj\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.AssemblyInfoInputs.cache
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\obj\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.AssemblyInfo.cs
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\obj\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.csproj.CoreCompileInputs.cache
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\obj\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.dll
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\obj\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.pdb
+D:\C++ projects\TestTaskKaspersky\FileProcessorTestTaskKaspersky\obj\Release\netcoreapp3.1\FileProcessorTestTaskKaspersky.genruntimeconfig.cache
